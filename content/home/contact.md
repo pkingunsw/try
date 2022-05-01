@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: pwang@iue.ac.cn; peng.sus@outlook.com
+  email: peng.sus@outlook.com
   phone: 888 888 88 88
   address:
     street: 集美大道1799号
@@ -37,10 +37,10 @@ content:
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
-  directions: 中国科学院城市环境研究所主楼509
+  directions: 中国科学院城市环境研究所主楼
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+    - '周一 10:00 to 13:00'
+    - '周三 09:00 to 10:00'
   appointment_url: 'https://calendly.com'
 
 
