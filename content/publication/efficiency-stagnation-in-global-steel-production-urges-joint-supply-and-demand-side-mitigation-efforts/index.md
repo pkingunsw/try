@@ -22,15 +22,13 @@ publication_types:
   - "2"
 authors:
   - admin
-  - Morten Ryberg
+  - Morten Ryberg*
   - Yi Yang
   - Kuishuang Feng
-  - Sami Kara
+  - Sami Kara*
   - Michael Hauschild
-  - Wei-Qiang Chen
-author_notes:
-  - Equal contribution
-  - Equal contribution
+  - Wei-Qiang Chen*
+author_notes: []
 publication: In *Nature Communications*
 summary: 钢铁行业碳中和障碍及未来发在路径
 url_dataset: ""
