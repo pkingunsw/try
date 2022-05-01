@@ -1,6 +1,6 @@
 ---
 widget: featured
-widget_id: " RECENT-POSTS"
+widget_id: "1"
 headless: true
 weight: 80
 title: 代表论文
