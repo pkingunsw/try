@@ -25,5 +25,5 @@ design:
 ---
 
 {{% callout note %}}
-查看所有论文[filtering publications](./publication/).
+查看所有论文[论文库](./publication/).
 {{% /callout %}}
