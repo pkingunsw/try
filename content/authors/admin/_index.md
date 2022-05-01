@@ -14,13 +14,14 @@ organizations:
     url: https://cn.wqchen.org/peng-wang/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 协同生命周期工程技术，解决碳中和下物质资源约束.
 
 # Interests to show in About widget
 interests:
-  - 物质系统工程（金属、塑料、新兴污染物）
+  - 物质系统工程（金属、塑料等）
   - 金属-能源-环境耦合建模及分析
-  - 碳中和下资源约束与污染治理
+  - 碳中和下资源约束与环境治理
+  - 生命周期工程及技术
 
 # Education to show in About widget
 education:
@@ -28,7 +29,7 @@ education:
     - course: 机械及制造工程（博士及博士后）
       institution: 新南威尔士大学
       year: 2019
-    - course: 热能工程与热物理（本科及硕士）
+    - course: 动力工程及工程热物理（本科及硕士）
       institution: 北京科技大学
       year: 2012
 
@@ -61,7 +62,7 @@ email: 'pwang@iue.ac.cn'
 highlight_name: true
 ---
 
-汪鹏，中国科学院城市环境研究所副研究员，澳大利亚新南威尔士大学博士（制造工程及管理）和博士后（生命周期工程实验室），主要从事碳中和下关键金属等物质双循环模拟及风险管控技术研究，在Nature Communications、One Earth、Fundamental Research、Global Environment Change, Applied Energy、CIRP Annals-Manufacturing Technology (国际生产工程科学院院刊)及《资源科学》等国内外专业期刊发表论文四十多篇
+汪鹏，中国科学院城市环境研究所副研究员，澳大利亚新南威尔士大学博士（制造工程及管理）和博士后（生命周期工程实验室），主要从事碳中和下关键金属等物质双循环模拟及风险管控技术研究，在Nature Communications、One Earth、Fundamental Research、Global Environment Change, Applied Energy、CIRP Annals-Manufacturing Technology (国际生产工程科学院院刊)及《资源科学》等国内外专业期刊发表论文四十多篇；
 
 研究得到中国科协青年托举人才计划、福建省高层次引进人才、中科院院级特别研究助理等人才项目支持，获得华人产业生态学会2020年度学术新人奖、澳大利亚新南威尔士大学Writing Fellow、RCR期刊2020年度最佳审稿人等奖项；
 
