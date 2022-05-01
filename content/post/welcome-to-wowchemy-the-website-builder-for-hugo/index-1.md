@@ -1,91 +1,91 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've
-  populated your new site with some initial content to help you get familiar
-  with everything in no time.
+title: 碳中和的误区与重点
+subtitle: ""
 date: 2022-05-01T08:20:58.688Z
-summary: Welcome 👋 We know that first impressions are important, so we've
-  populated your new site with some initial content to help you get familiar
-  with everything in no time.
+summary: ""
 draft: false
 featured: false
 authors:
-  - admin
-  - 吳恩達
-lastmod: 2020-12-13T00:00:00Z
+  - 潘家华
+lastmod: 2020-12-13T00:00:00.000Z
 tags:
-  - Academic
-  - 开源
+  - 碳中和，大家观点
 categories:
-  - Demo
-  - 教程
+  - 观点
 projects: []
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
   focal_point: ""
   placement: 2
   preview_only: false
+  filename: null
 ---
+5月8日下午，在“中国碳中和50人论坛”成立大会上，国家气候变化专家委员会委员、中国社科院学部委员潘家华指出，一提碳中和，森林碳汇、水稻养殖等诸多领域都热情高涨，大有“大干快上”、喧宾夺主之势，然而这些领域都是气候中性碳，依靠栽树推动碳中和势不切实际的。中国森林碳汇一年4.34亿吨，对于超过百亿吨的化石能源碳是“杯水车薪”的。
 
-## Overview
+**他强调，碳中和的主攻方向在于能源。然而能源“双控”要求控制能源消费总量并不合理，他认为，应该控制的是化石能源碳排放，二零碳能源则多多益善。关于碳交易市场，他认为，由于交易成本过高、企业数量较少、易形成寡头，碳排放长期趋于归零，碳交易市场不可能做大做强。**
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+潘家华指出，发达国家从达峰到中和多在50年以上，而中国只有30年，这绝非易事。那些认为随着收入的增加，碳中和也将迎刃而解的观点并不符合现实情况，环境库兹涅茨曲线并不成立。
 
-{{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
+以下为潘家华题为《碳中和：不能走偏了》的演讲节选（21世纪经济报道略有删节调整）。
 
-## Get Started
+**不能指望栽树实现碳中和**
 
-- 👉 [**Create a new site**](https://wowchemy.com/templates/)
-- 📚 [**Personalize your site**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Tutorial](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://wowchemy.com/updates/)
+关于碳中和的解读，现在有些理解走偏了。以前对碳的关注度并不高。2020年9月以来，中国向国际社会承诺碳中和，而且在中央多次会议上要求落实。国家一句号令，千军万马、上上下下都积极表态推动碳中和，这是没错的。但问题在哪儿呢？感觉有些喧宾夺主，非二氧化碳、森林碳汇、水稻养殖甲烷等等很热闹。但实际上，碳中和主要或基本上指的是化石能源的碳，其他的碳相对于化石能源燃烧产生的二氧化碳，并不是碳中和的主攻方向。
 
-## Crowd-funded open-source software
+在温室气体排放中，化石能源排放的二氧化碳占多少呢？80%。甲烷中间至少有40%是由化石能源产生的，30%氮氧化合物也是化石能源产生的。所以要抓主要矛盾，这才是正道，才是正理。绝对不要喧宾夺主，不要一说碳中和，似乎什么领域都可以做贡献。
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
 
-### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://wowchemy.com/plans/)
 
-As a token of appreciation for sponsoring, you can **unlock [these](https://wowchemy.com/plans/) awesome rewards and extra features 🦄✨**
+现在广为流传的碳中和“天平图”，实际上是错谬的。在“天平”一侧，大量排放依旧，另一侧，则靠碳汇来中和。从科学上讲，这是错的，原因是：绿色植物是碳汇，也是碳源。这些绿色植物叫气候中性碳，它们从大气中吸收二氧化碳，最后它是生命体要死亡、要枯枝落叶，最后又回到了大气，怎么可能是永远的碳汇呢？
 
-## Ecosystem
+在某一个时间段，绿色植物可以有这么一点碳汇，从长远来看，植物碳循环是气候中性的，不要以为，栽了树就可以把碳给中和了，从逻辑上是不成立的。
 
-- **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
 
-## Inspiration
 
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://wowchemy.com/user-stories/) of personal, project, and business sites.
+说到碳汇，国家林草局2019年出版的《中国森林资源普查报告》显示，我国森林碳汇一年4.34亿吨，如果换算成二氧化碳，也只有12亿吨。而中国2019年全口径温室气体排放总量是140亿吨，其中化石能源二氧化碳排放102亿吨。即便是真的碳汇，要中和年总量超过百亿吨水平的化石能源碳也是杯水车薪的。
 
-## Features
+所以森林植物的主要功能不在碳汇，而在可再生能源。生物质燃烧有碳排放，但是，生物可以气化替代天然气，生物乙醇可以替代汽油，生物型碳可以替代煤球，生物质可以直接燃烧发电。这才是森林植物的真正功用所在。
 
-- **Page builder** - Create _anything_ with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/content/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://wowchemy.com/docs/content/writing-markdown-latex/), [**Jupyter**](https://wowchemy.com/docs/import/jupyter/), or [**RStudio**](https://wowchemy.com/docs/install-locally/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://wowchemy.com/docs/customization/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 34+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
+碳中和，真的不要走偏了。农业林业的碳，多属于气候中性碳，碳是来自于大气中间的。牛吃草、猪食料、养殖业释放甲烷，又回到了大气，它们都是气候中性的。
 
-## Themes
+**调整能源结构，不宜限制总量**
 
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
+碳中和最直接、最直观可测的是能源、能源，还是能源。没有捷径可走。
 
-[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
+事实上，我们需要的并不是碳，我们需要的是能源服务。煤发的电是电，光伏、水发的电也是电，两者是均质产品，和来源没有关系。
 
-## License
+所以德国最初说在2042年把煤炭归零，后来提前到2038年，现在明确2030年将煤炭归零。德国碳中和的技术路线做得非常详细，基本上都是化石能源，其他的微乎其微，也没有什么大量碳汇的表述。
 
-Copyright 2016-present [George Cushen](https://georgecushen.com).
 
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
+
+关于碳中和，我们的政策必须要理性。例如能源“双控”。控制能源消费总量干什么呢？该控制的是化石能源，零碳能源多多益善，为什么一定要控制能源消费总量呢？如果一个地区有无限风电、光电，完全可以大力开发利用，控制总量是没必要的。
+
+我们必须承认煤炭对中国经济发展的历史性贡献，没有煤炭，中国的经济发展到现在是不可能的，但是这并不表明，煤炭还有未来，这一点是必须明确的。
+
+关于氢能，这是二次能源，如果它是源自于化石能源，依然是高碳的，未来氢能必须来自零碳的可再生能源。
+
+
+
+全国碳中和，是一盘棋，要协同，不可以单打独斗。比如大西北风光无限，大西南水电潜力非常大，东南沿海是经济重心，相对来讲人口密度高，经济活力强，陆域空间小，但是海洋风电也有很大潜力，由于可再生能源的空间和时间差异或不可控性较强，必须要区域协同，多能源品种协同。
+
+
+
+**碳交易市场成本过高、前景堪忧**
+
+从国际上看，咱们是发展中国家，我们定位是非常明确的。但是在碳这个问题上，中国确实要认清我们现在不是微不足道的。我们现在的碳在全球的占比，超过1/4，2020年，超过了OECD经济发展合作组织所有经济体的总排放量，人均上，我们早已超过欧盟水平，正在逼近OECD人均。
+
+
+
+实现碳中和，我们当然有难度，而且不是一般的难。因为从上个世纪70年代到本世纪初，发达国家碳达峰都是自然达峰，没有什么人为干预或约束。我们现在是要人为压峰、降峰，所以这是我们的难处所在。不仅如此，发达国家从达峰到中和，多在50年以上。我们总能量巨大，却只有30年时间，所以实现双碳目标绝非易事。
+
+
+
+我们想着，随着收入的增加，碳的问题就解决了。其实，不尽然。美国人均GDP超过6万美元，欧盟、日本人均5万美元，在碳的问题上仍然举步维艰，中国2020年刚过1万美元，低于高收入国家最低起点（人均12600美元），以为我们通过发展就能降低排放并不现实，环境库兹涅茨曲线在这儿并不成立。
+
+关于碳市场。我觉得这一点很重要，市场手段很有用，但是必须要清醒的是，从长远看，碳交易市场不可能蓬勃兴旺，市场功能也很有限，因为配额交易必须要交易成本低、交易主体多。而碳是无形产品，要核查、登记、交易，众多环节且不说寻租，更不说腐败，正常的运行其成本就很高。而碳交易市场中，化石能源排放大户大都是上游原材料企业，这些企业数量较少，易形成寡头；上游企业也可以轻易将碳成本转嫁出去。而从全球看，2050年前后，不少国家开始接近碳中和，最后碳排放大体归零，所以碳市场不可能做大，也不可能做强。
+
+所以，美国倡导并植入京都议定书的三大市场机制，即碳交易、清洁发展机制、联合履行，但美国都没有参与；欧盟在2005年做了碳交易体系，但15年来，苟延残喘，也谈不上生机和活力。
+
+来源：[https://mp.weixin.qq.com/s/bel9AQXpvLRB15kXw-_6qg](https://mp.weixin.qq.com/s/bel9AQXpvLRB15kXw-_6qg)
+
+（侵删）
