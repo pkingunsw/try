@@ -46,8 +46,8 @@ projects:
   - UNEP
 image:
   caption: ""
-  focal_point: ""
-  preview_only: false
+  focal_point: CENTER
+  preview_only: true
   filename: 41467_2021_22245_fig1_html.webp
 date: 2022-05-01T05:11:14.461Z
 url_slides: ""
