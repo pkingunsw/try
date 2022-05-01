@@ -1,6 +1,6 @@
 ---
 widget: about
-widget_id: dd
+widget_id: t
 headless: true
 weight: 20
 title: 个人简介
