@@ -32,10 +32,10 @@ author_notes:
   - Equal contribution
   - Equal contribution
 publication: In *Nature Communications*
-summary: Why steel de-decarbonization needs life cycle apporach
+summary: 钢铁行业碳中和障碍及未来发在路径
 url_dataset: ""
 url_project: ""
-publication_short: In *ICW*
+publication_short: In *NC*
 url_source: ""
 url_video: ""
 title: Efficiency stagnation in global steel production urges joint supply- and
@@ -43,27 +43,26 @@ title: Efficiency stagnation in global steel production urges joint supply- and
 doi: ""
 featured: true
 tags:
-  - Fe
+  - 能源金属耦合
 projects:
-  - example
+  - UNEP
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
-  filename: https://www.nature.com/articles/s41467-021-22245-6#citeas
+  filename: 41467_2021_22245_fig1_html.webp
 date: 2022-05-01T05:11:14.461Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
-
 {{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 {{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
+Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including code, math, and images.
