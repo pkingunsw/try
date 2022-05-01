@@ -16,7 +16,7 @@ main:
   - name: 交流报告
     url: '#talks'
     weight: 40
-  - name: 新闻评论
+  - name: 新闻推介
     url: '#posts'
     weight: 50
   - name: 在线联系
