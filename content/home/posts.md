@@ -25,5 +25,5 @@ design:
 ---
 
 {{% callout note %}}
-查看所有[观点新闻](./posts/).
+查看所有[观点新闻](./post/).
 {{% /callout %}}
