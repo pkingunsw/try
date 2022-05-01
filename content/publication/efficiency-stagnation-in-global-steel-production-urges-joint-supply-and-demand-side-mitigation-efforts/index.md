@@ -42,6 +42,8 @@ doi: ""
 featured: true
 tags:
   - 能源金属耦合
+categories:
+  - 论文
 projects:
   - UNEP
 image:
@@ -49,7 +51,7 @@ image:
     [**Unsplash**](https://www.nature.com/articles/s41467-021-22245-6/figures/1\
     )"
   focal_point: CENTER
-  preview_only: false
+  preview_only: true
   filename: 41467_2021_22245_fig1_html.webp
   alt_text: g
 date: 2021-04-06T05:11:00.000Z
