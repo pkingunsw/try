@@ -33,7 +33,7 @@ publication: In *Nature Communications*
 summary: 钢铁行业碳中和障碍及未来发在路径
 url_dataset: ""
 url_project: ""
-publication_short: In *NC*
+publication_short: In *Nature Communications*
 url_source: ""
 url_video: ""
 title: Efficiency stagnation in global steel production urges joint supply- and
@@ -46,9 +46,10 @@ projects:
   - UNEP
 image:
   caption: ""
-  focal_point: CENTER
-  preview_only: true
+  focal_point: SMART
+  preview_only: false
   filename: 41467_2021_22245_fig1_html.webp
+  alt_text: g
 date: 2022-05-01T05:11:14.461Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
