@@ -32,7 +32,7 @@ categories:
 image:
   filename: https://ars.els-cdn.com/content/image/1-s2.0-S2667325822001078-gr2.jpg
   focal_point: Smart
-  preview_only: true
+  preview_only: false
   caption: https://ars.els-cdn.com/content/image/1-s2.0-S2667325822001078-gr2.jpg
 summary: 碳中和下金属与能源系统要循环关联
 date: 2022-01-18T05:41:00.000Z
