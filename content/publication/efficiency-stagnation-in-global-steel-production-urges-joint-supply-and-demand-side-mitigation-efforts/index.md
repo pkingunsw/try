@@ -45,8 +45,8 @@ tags:
 projects:
   - UNEP
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
-  focal_point: SMART
+  caption: "Image credit: [**Unsplash**](FEATURED.JPG/PNG)"
+  focal_point: CENTER
   preview_only: false
   filename: 41467_2021_22245_fig1_html.webp
   alt_text: g
