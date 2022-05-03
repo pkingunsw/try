@@ -3,7 +3,7 @@ widget: portfolio
 widget_id: "1"
 headless: true
 weight: 65
-title: 基金项目
+title: 研究材料
 subtitle: ""
 content:
   page_type: project
