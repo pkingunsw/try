@@ -11,8 +11,12 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: 专家观点
+      tag: 专家观点
+    - name: 深入思考
+      tag: 深入思考
+    - name: 日常观点
+      tag: 日常观点
     - name: Other
       tag: Demo
 design:

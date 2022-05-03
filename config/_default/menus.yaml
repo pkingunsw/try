@@ -7,10 +7,10 @@ main:
   - name: 个人主页
     url: '#about'
     weight: 10
-  - name: 发表成果
+  - name: 论文发表
     url: '#featured'
     weight: 20
-  - name: 科研项目
+  - name: 研究资料
     url: '#projects'
     weight: 30
   - name: 交流报告
