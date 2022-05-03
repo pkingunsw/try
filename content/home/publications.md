@@ -3,7 +3,7 @@ widget: pages
 widget_id: "1"
 headless: true
 weight: 90
-title: 最新发表
+title: 论文发表
 subtitle: ""
 content:
   filters:
