@@ -3,7 +3,7 @@ widget: pages
 widget_id: 最新信息
 headless: true
 weight: 60
-title: 最新信息
+title: 新闻信息
 subtitle: null
 content:
   filters:
