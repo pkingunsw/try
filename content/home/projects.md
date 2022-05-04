@@ -13,10 +13,12 @@ content:
       tag: "*"
     - name: 专家观点
       tag: 专家观点
-    - name: 深入思考
-      tag: 深入思考
-    - name: 日常观点
-      tag: 日常观点
+    - name: 系统分析
+      tag: 系统分析
+    - name: 可视化
+      tag: 可视化
+    - name: 日常所得
+      tag: 日常所得
     - name: Other
       tag: Demo
 design:
@@ -24,3 +26,6 @@ design:
   view: 2
   flip_alt_rows: false
 ---
+{{% callout note %}}
+查看所有[材料](./project/).
+{{% /callout %}}
