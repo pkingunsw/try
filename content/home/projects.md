@@ -9,8 +9,6 @@ content:
   page_type: project
   filter_default: 0
   filter_button:
-    - name: All
-      tag: "*"
     - name: 专家观点
       tag: 专家观点
     - name: 系统分析
