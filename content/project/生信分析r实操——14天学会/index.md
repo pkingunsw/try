@@ -5,7 +5,7 @@ summary: https://www.bilibili.com/video/BV1uS4y1N7u1?share_source=copy_web
 draft: false
 featured: false
 tags:
-  - 可视化
+  - 可视化，亮点
 external_link: https://www.bilibili.com/video/BV1uS4y1N7u1?share_source=copy_web
 image:
   filename: featured
