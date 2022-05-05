@@ -1,7 +1,10 @@
 ---
 title: R语言数据地图——全球填色地图
 date: 2022-05-04T02:31:16.255Z
-summary: 地理空间可视化教程
+summary: |-
+  地理空间可视化教程
+
+  <https://cloud.tencent.com/developer/article/1091301>
 draft: false
 featured: false
 tags:
