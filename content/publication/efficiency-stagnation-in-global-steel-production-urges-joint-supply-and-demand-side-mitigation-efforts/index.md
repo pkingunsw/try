@@ -29,11 +29,11 @@ authors:
   - Michael Hauschild
   - Wei-Qiang Chen*
 author_notes: []
-publication: "*Nature Communications* ,**12**, 2066 ."
+publication: "*Nature Communications* ,**12**, 2066"
 summary: 钢铁行业碳中和障碍及未来发在路径
 url_dataset: ""
 url_project: ""
-publication_short: " *Nature Communications*,**12**, 2066 ."
+publication_short: " *Nature Communications*,**12**, 2066"
 url_source: ""
 url_video: ""
 title: Efficiency stagnation in global steel production urges joint supply- and
@@ -66,10 +66,8 @@ https://www.natureindex.com/article/10.1038/s41467-021-22245-6
 
 维基百科：高炉介绍  https://en.wikipedia.org/?curid=297203
 
-斯德哥尔摩报告：https://www.sei.org/publications/what-achieve-net-zero/
+斯德哥尔摩报告：<https://www.sei.org/publications/what-achieve-net-zero/>
 
-IPCC报告：引用7次：https://www.ipcc.ch/report/sixth-assessment-report-working-group-3/
-
-
+IPCC报告：引用7次：<https://www.ipcc.ch/report/sixth-assessment-report-working-group-3/>
 
 Supplementary notes can be added here, including [data](https://www.nature.com/articles/s41467-021-22245-6#Sec14), [SI](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-021-22245-6/MediaObjects/41467_2021_22245_MOESM1_ESM.pdf), and [Pdf](https://www.nature.com/articles/s41467-021-22245-6#Sec14).
