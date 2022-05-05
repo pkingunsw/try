@@ -6,6 +6,8 @@ summary: "[https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/ind\
   ex.html)"
 draft: false
 featured: false
+tags:
+  - 可视化
 image:
   filename: featured
   focal_point: Smart
