@@ -24,6 +24,3 @@ design:
   columns: "2"
 ---
 
-{{% callout note %}}
-查看所有[观点新闻](./post/).
-{{% /callout %}}
