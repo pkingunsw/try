@@ -13,10 +13,7 @@ main:
   - name: 研究资料
     url: '#projects'
     weight: 30
-  - name: 交流报告
-    url: '#talks'
-    weight: 40
-  - name: 新闻推介
+  - name: 新闻报告
     url: '#posts'
     weight: 50
   - name: 在线联系
