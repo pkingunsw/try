@@ -2,7 +2,7 @@
 title: RCR新学说第30期-王鹤鸣-中国循环经济状态评估（汪鹏主持）
 date: 2021-04-01T05:21:41.168Z
 summary: |-
-  # `王鹤鸣教授 RCR新学说第30期-中国循环经济状态评估`
+  王鹤鸣教授 RCR新学说第30期-中国循环经济状态评估
 
   https://www.bilibili.com/video/BV15i4y1N7EU?share_source=copy_web
 draft: false
