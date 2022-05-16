@@ -12,7 +12,7 @@ authors:
   - 陈伟强*
 author_notes: []
 doi: http://www.resci.cn/CN/10.18402/resci.2021.04.03
-publication: 资源科学
+publication: "资源科学, **43(4)**: 669-681"
 publication_short: "资源科学，**43(4)**: 669-681"
 draft: false
 featured: false
