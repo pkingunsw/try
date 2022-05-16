@@ -2,7 +2,7 @@
 title: "Prospective Assessment of Steel Manufacturing Relative to Planetary
   Boundaries: Calling for Life Cycle Solution"
 publication_types:
-  - "2"
+  - "1"
 authors:
   - Morten W. Ryberg
   - admin
