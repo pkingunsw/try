@@ -12,6 +12,8 @@ authors:
   - Yan Ren*
   - Wei-QiangChen
 doi: https://doi.org/10.1016/j.resconrec.2020.104829
+publication: "*Resources, Conservation and Recycling*, **158**, 104829"
+publication_short: "*Resources, Conservation and Recycling*, **158**, 104829"
 abstract: Tungsten is deemed a critical raw material by many nations, given its
   irreplaceable use in industrial and military applications. In particular, much
   concern has been drawn to China's high share in global tungsten supply. While
