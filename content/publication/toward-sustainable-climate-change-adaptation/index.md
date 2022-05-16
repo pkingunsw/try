@@ -9,6 +9,8 @@ authors:
   - Wei-Qiang Chen
   - Timothy M. Smith
 doi: https://doi.org/10.1111/jiec.12984
+publication: "*Journal of Industrial Ecology*, ** 24 (2)**: 318-330"
+publication_short: "*Journal of Industrial Ecology*, ** 24 (2)**: 318-330"
 abstract: Industrial ecology (IE) has made great contributions to climate change
   mitigation research, in terms of its systems thinking and solid methodologies
   such as life cycle assessment, material flow analysis, and environmentally
