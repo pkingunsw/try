@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - admin
-  - Zeyi Jiang
+  - Zeyi Jiang*
   - Xinyi Geng
   - Shiyu Hao
   - Xinxin Zhang
