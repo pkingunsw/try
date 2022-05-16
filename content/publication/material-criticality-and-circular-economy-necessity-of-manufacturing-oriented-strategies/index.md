@@ -2,7 +2,7 @@
 title: "Material Criticality and Circular Economy: Necessity of Manufacturing
   Oriented Strategies"
 publication_types:
-  - "2"
+  - "1"
 authors:
   - admin
   - Sami Kara
