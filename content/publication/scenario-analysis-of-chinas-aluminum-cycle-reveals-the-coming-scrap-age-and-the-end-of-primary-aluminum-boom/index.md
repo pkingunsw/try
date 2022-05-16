@@ -4,7 +4,8 @@ title: Scenario analysis of China's aluminum cycle reveals the coming scrap age
 publication_types:
   - "2"
 authors:
-  - Min Dai，admin
+  - Min Dai
+  - admin
   - Wei-Qiang Chen*
   - Gang Liu
 author_notes: []
