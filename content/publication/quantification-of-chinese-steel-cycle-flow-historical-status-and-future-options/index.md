@@ -10,8 +10,8 @@ authors:
   - Shiyu Hao
   - Xinxin Zhang
 doi: https://doi.org/10.1016/j.resconrec.2014.04.003
-publication: "*Resources, Conservation and Recycling*，2014, 87: 191-199"
-publication_short: "*Resources, Conservation and Recycling*，2014, 87: 191-199"
+publication: "*Resources, Conservation and Recycling*，**87**: 191-199"
+publication_short: "*Resources, Conservation and Recycling*，**87**: 191-199"
 draft: false
 featured: false
 image:
