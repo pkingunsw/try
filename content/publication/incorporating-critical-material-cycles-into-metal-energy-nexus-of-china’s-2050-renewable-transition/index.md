@@ -10,8 +10,8 @@ authors:
   - Wenjia Cai
   - Wei-Qiang Chen*
 doi: https://www.sciencedirect.com/science/article/abs/pii/S0306261919312863
-publication: "*Applied Energy*，2019, 253: 113612"
-publication_short: "*Applied Energy*，2019, 253: 113612"
+publication: "*Applied Energy*，**253**: 113612"
+publication_short: "*Applied Energy*，**253**: 113612"
 draft: false
 featured: false
 image:
