@@ -7,8 +7,8 @@ authors:
   - Wen Li
   - Sami Kara*
 doi: https://doi.org/10.1016/j.resconrec.2015.07.009
-publication: "*Resources, Conservation and Recycling*，2017, 117A: 45-57"
-publication_short: "*Resources, Conservation and Recycling*，2017, 117A: 45-57"
+publication: "*Resources, Conservation and Recycling*，**117A**: 45-57"
+publication_short: "*Resources, Conservation and Recycling*，**117A**: 45-57"
 abstract: ""
 draft: false
 featured: false
