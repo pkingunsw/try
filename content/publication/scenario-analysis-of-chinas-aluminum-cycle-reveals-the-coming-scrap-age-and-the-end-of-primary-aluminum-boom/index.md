@@ -25,7 +25,7 @@ abstract: Carbon neutrality ambitions require a clean, reliable, and affordable
   climate-safe future. This cover presents such a symbiosis of critical metals
   and renewable energy in a carbon-neutral landscape.
 draft: false
-featured: true
+featured: false
 tags:
   - 碳中和
 categories:
