@@ -8,8 +8,8 @@ authors:
   - Wei-Qiang Chen*
   - Stefan Pauliuk
 doi: https://doi.org/10.1016/j.fmre.2022.02.003
-publication: "*Fundamental Research*"
-publication_short: "*Fundamental Research*"
+publication: "*Fundamental Research* 2 (2022) 392–395"
+publication_short: "*Fundamental Research* 2 (2022) 392–395"
 abstract: Carbon neutrality ambitions require a clean, reliable, and affordable
   supply of critical metals used in low-carbon technologies ranging from wind
   turbines, photovoltaics, and electricity networks, to electric vehicles. Based
