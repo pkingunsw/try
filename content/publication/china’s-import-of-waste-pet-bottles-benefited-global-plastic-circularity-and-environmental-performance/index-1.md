@@ -1,18 +1,20 @@
 ---
-title: China’s Import of Waste PET Bottles Benefited Global Plastic Circularity
-  and Environmental Performance
+title: Material flow patterns of the global waste paper trade and potential
+  impacts of China’s import ban
 publication_types:
   - "2"
 authors:
   - Zijie Ma
-  - Morten W Ryberg
-  - admin
-  - Linbin Tang
+  - Yi Yang
   - Wei-Qiang Chen*
+  - admin
+  - Chao Wang
+  - Chao Zhang
+  - Jianbang Gan
 author_notes: []
-doi: https://doi.org/10.1021/acssuschemeng.0c05926
-publication: "*ACS Sustainable Chemistry & Engineering*, **8 (45)**: 16861-16868"
-publication_short: "*ACS Sustainable Chemistry & Engineering*, **8 (45)**: 16861-16868"
+doi: https://doi.org/10.1021/acs.est.1c00642
+publication: "*Environmental Science & Technology*, **55 (13)**: 8492-8501"
+publication_short: "*Environmental Science & Technology*, **55 (13)**: 8492-8501"
 draft: false
 featured: false
 image:
