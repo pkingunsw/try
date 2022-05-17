@@ -11,14 +11,14 @@ authors:
   - and Wei-Qiang Chen*
 author_notes: []
 doi: https://doi.org/10.1016/j.oneear.2020.06.009
-publication: "*One Earth*,**1(3)**: 116-125"
-publication_short: "*One Earth*,**1(3)**: 116-125"
+publication: "*Environmental Science & Technology*, **54 (22)**, 14686-14693"
+publication_short: "*Environmental Science & Technology*, **54 (22)**, 14686-14693"
 draft: false
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: 全球风力发电的稀土约束
+summary: ""
 date: 2020-08-11T08:39:52.338Z
 ---
