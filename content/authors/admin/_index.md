@@ -1,6 +1,6 @@
 ---
 title: 汪 鹏（Peng Wang）
-role: 副研究员
+role: 领域研究员
 bio: 协同人工智能技术，解决碳中和下物质资源约束.
 interests:
   - 物质循环与双碳转型耦合
