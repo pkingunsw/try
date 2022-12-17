@@ -6,7 +6,7 @@ summary: |-
 
   https://irtc.info/about-irtc/
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
