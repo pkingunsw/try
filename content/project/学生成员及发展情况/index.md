@@ -59,7 +59,7 @@ image:
 
 **王晨阳（加拿大女王大学矿产工程学院，Queen's University ）**
 
-研究方向：矿产负碳效益评估
+研究方向：矿产负碳技术及效益评估
 
 **李慧梅（德国弗莱堡大学产业生态组，Industrial Ecology Freiburg ）**
 
