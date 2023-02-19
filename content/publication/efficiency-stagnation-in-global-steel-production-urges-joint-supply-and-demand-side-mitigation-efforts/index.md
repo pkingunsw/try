@@ -29,11 +29,11 @@ authors:
   - Michael Hauschild
   - Wei-Qiang Chen*
 author_notes: []
-publication: "*Nature Communications* ,**12**, 2066"
+publication: "*Nature Communications*, **12**, 2066"
 summary: 钢铁行业碳中和障碍及未来发在路径
 url_dataset: ""
 url_project: ""
-publication_short: " *Nature Communications*,**12**, 2066"
+publication_short: " *Nature Communications*, **12**, 2066"
 url_source: ""
 url_video: ""
 title: Efficiency stagnation in global steel production urges joint supply- and
