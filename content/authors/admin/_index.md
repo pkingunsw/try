@@ -35,7 +35,7 @@ highlight_name: true
 ---
 汪鹏，中国科学院城市环境研究所研究员，中科院百人计划入选者，中科科协青托人才入选者。
 
-澳大利亚新南威尔士大学博士（制造工程及管理）和博士后（生命周期工程实验室），主要从事物质循环及风险管控研究，在*Nature Communications*、*One Earth*、*Fundamental Research*、*Global Environment Change*、*Applied Energy*、*CIRP Annals-Manufacturing Technology* (国际生产工程科学院院刊)及《中国科学院院刊》等国内外专业期刊发表论文60多篇；
+澳大利亚新南威尔士大学博士（制造工程及管理）和博士后（生命周期工程实验室），主要从事关键物质循环及风险智能管控研究，在*Nature Communications*（2篇）、*Fundamental Research*、*Global Environment Change*、*Applied Energy*、*CIRP Annals-Manufacturing Technology* (国际生产工程科学院院刊)及《中国科学院院刊》《资源科学》等国内外专业期刊发表论文60多篇；
 
 研究得到中科院百人计划、中国科协青年托举人才计划、福建省高层次引进人才、中科院院级特别研究助理等人才项目支持，获得华人产业生态学会2020年度学术新人奖、澳大利亚新南威尔士大学Writing Fellow、RCR期刊2020年度最佳审稿人等奖项；
 
