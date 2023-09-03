@@ -1,7 +1,7 @@
 ---
 title: 汪 鹏（Peng Wang）
-role: 物质循环与资源安全
-bio: 协同人工智能与物质流技术，应对全球可持续转型中的物质资源约束.
+role: 物质循环与人工智能
+bio: 协同人工智能与物质流技术，应对全球可持续转型的物质资源约束
 interests:
   - 物质循环数智工程
   - 人工智能及资源环境交叉
@@ -33,11 +33,9 @@ email: pwang@iue.ac.cn
 superuser: true
 highlight_name: true
 ---
-汪鹏，中国科学院城市环境研究所，研究员，中科院百人计划入选者，中科科协青托人才入选者。
+汪鹏，中国科学院城市环境研究所研究员，中科院百人计划入选者，中科科协青托人才入选者。
 
-澳大利亚新南威尔士大学博士（制造工程及管理）和博士后（生命周期工程实验室），主要从事数据驱动的物质循环数智工程及风险管控研究；
-
-在*Nature Communications*（4篇）、*Fundamental Research*、*Global Environment Change*、*Applied Energy*、*CIRP Annals-Manufacturing Technology* (国际生产工程科学院院刊)及《中国科学院院刊》等国内外专业期刊发表论文70多篇；
+澳大利亚新南威尔士大学博士（制造工程及管理）和博士后（生命周期工程实验室），主要从事数据驱动的物质循环数智工程及风险管控研究；在*Nature Communications*（4篇）、*Fundamental Research*、*Global Environment Change*、*Applied Energy*、*CIRP Annals-Manufacturing Technology* (国际生产工程科学院院刊)及《中国科学院院刊》等国内外专业期刊发表论文70多篇；
 
 获得华人产业生态学会2020年度学术新人奖、澳大利亚新南威尔士大学Writing Fellow、RCR期刊2020年度最佳审稿人等奖项，担任Nature\Nature Climate Change\PNAS等期刊审稿人；
 
